@@ -1,0 +1,13 @@
+streamlit
+groq
+openai
+python-dotenv
+moviepy
+ffmpeg-python
+pydub
+librosa
+soundfile
+numpy
+pandas
+requests
+srt
